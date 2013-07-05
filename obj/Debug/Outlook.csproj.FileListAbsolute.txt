@@ -1,0 +1,10 @@
+E:\CodeZone\Outlook\bin\Debug\Outlook.exe
+E:\CodeZone\Outlook\bin\Debug\Outlook.pdb
+E:\CodeZone\Outlook\obj\Debug\Outlook.csprojResolveAssemblyReference.cache
+E:\CodeZone\Outlook\obj\Debug\MainWindow.baml
+E:\CodeZone\Outlook\obj\Debug\MainWindow.g.cs
+E:\CodeZone\Outlook\obj\Debug\App.g.cs
+E:\CodeZone\Outlook\obj\Debug\Outlook_MarkupCompile.cache
+E:\CodeZone\Outlook\obj\Debug\Outlook.g.resources
+E:\CodeZone\Outlook\obj\Debug\Outlook.exe
+E:\CodeZone\Outlook\obj\Debug\Outlook.pdb
