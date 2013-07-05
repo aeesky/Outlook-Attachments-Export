@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook", "Outlook.csproj", "{DE2DC011-5899-4BAC-A6C8-23630250A431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2DC011-5899-4BAC-A6C8-23630250A431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2DC011-5899-4BAC-A6C8-23630250A431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2DC011-5899-4BAC-A6C8-23630250A431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2DC011-5899-4BAC-A6C8-23630250A431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
